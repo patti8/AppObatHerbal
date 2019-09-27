@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Obat Herbal</string>
+    <string name="title_name">Nama Penyakit</string>
+    <string name="category">Category Obat Herbal</string>
+</resources>
